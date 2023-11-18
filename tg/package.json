@@ -2,7 +2,7 @@
   "name": "treatmentguidelines",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "/tg/web-build/",
+  "homepage": "/web-build/",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
