@@ -140,7 +140,7 @@ class MainPart extends React.Component {
 	fontSize={20}
 	numberOfLines={2}
 	mode={ResizeTextMode.max_lines}>
-    <Text  style={styles.buttonText}>Human Papillomavirus (Genital Warts)</Text>
+    <Text  style={styles.buttonText}>Human Papillomavirus (HPV)</Text>
     </AutoSizeText>
      </View>
     </TouchableOpacity>
